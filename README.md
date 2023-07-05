@@ -13,7 +13,7 @@
     <li>You have enabled the Google Calendar API for your Google account and have obtained the necessary <b>'credentials.json'</b> file (placed in the same directory as the main script). <a href="https://developers.google.com/workspace/guides/create-credentials">Here</a> is a guide on how to do it.</li>
 </ul>
 <h4>Usage</h4>
-<p>To use Sneaker-Release-Alerts, follow these steps:</p>
+<p>To use Google Calendar Shoe Release Scheduler, follow these steps:</p>
 <ol>
     <li>Clone the repository or download the code.</li>
     <li>Run <b>'python3 main.py'</b> (or <b>'python main.py'</b> depending on your Python configuration).</li>
